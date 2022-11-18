@@ -1,1 +1,1 @@
-This a readme file for the new dircetory
+This is a readme file for the new directory
